@@ -1,0 +1,27 @@
+ 
+        body{
+            background-color: aqua;
+            background-image: url('lilo.jpeg');
+
+
+        }
+
+        button{
+
+            background-color: cyan;
+            transform: scale(500%);
+            margin-left: 100px;
+            margin-top: 100px;
+            transition: 1s;
+            border: none;
+            border-radius: 50%;
+        
+         }
+         button:hover{
+            background-color: blue;
+            box-shadow: 10px -10px 10px black;
+
+
+
+         }  
+   
